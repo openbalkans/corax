@@ -26,7 +26,8 @@ Corax is an OpenBalkans client implementation
 Features
 --------
 
-* TODO
+TODO
+----
 
 Credits
 -------
