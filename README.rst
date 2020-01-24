@@ -6,8 +6,8 @@ Corax
 .. image:: https://img.shields.io/pypi/v/corax.svg
         :target: https://pypi.python.org/pypi/corax
 
-.. image:: https://img.shields.io/travis/andecy64/corax.svg
-        :target: https://travis-ci.org/andecy64/corax
+.. image:: https://img.shields.io/github/workflow/status/coregen/corax/Unit%20tests
+        :target: https://github.com/coregen/corax/actions?query=workflow%3A%22Unit+tests%22
 
 .. image:: https://readthedocs.org/projects/corax/badge/?version=latest
         :target: https://corax.readthedocs.io/en/latest/?badge=latest
