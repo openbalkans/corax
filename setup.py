@@ -43,7 +43,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/andecy64/corax',
-    version='0.1.1',
+    url='https://github.com/openbalkans/corax',
+    version='0.1.2',
     zip_safe=False,
 )
